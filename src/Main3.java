@@ -9,7 +9,6 @@ public class Main3 {
         friend = friend / 7;
         System.out.println(friend);
 
-
         // Задача 5
         System.out.println("Задача 5");
         var frog = 3.5;
